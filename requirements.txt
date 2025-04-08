@@ -6,4 +6,3 @@ torch==2.3.0+cpu
 tiktoken
 sentencepiece
 dateparser
-babel
